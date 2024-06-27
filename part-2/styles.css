@@ -1,0 +1,22 @@
+/* These tweets look horrible but you get the point */
+
+.tweet {
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.username {
+    font-size: 16px;
+}
+
+.name {
+    font-size: 12px;
+}
+
+.date {
+    font-size: 12px;
+}
+
+.message {
+    font-size: 14px;
+}
